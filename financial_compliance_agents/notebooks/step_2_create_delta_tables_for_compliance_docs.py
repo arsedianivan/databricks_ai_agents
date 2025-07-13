@@ -31,7 +31,7 @@
 # COMMAND ----------
 
 # Configuration
-catalog_name = "dev_1899989130012056"  # Your existing catalog
+catalog_name = "<catalog_name>"  # Your existing catalog
 schema_name = "ai_agents"
 table_name = f"{catalog_name}.{schema_name}.compliance_docs"
 
