@@ -19,3 +19,8 @@ This guide demonstrates how to build an AI agent that helps financial institutio
 - Access to Databricks SQL and MLflow
 - Python knowledge
 - No GPU required (CPU-only setup)
+
+### Step 1 - Setup your Environment
+
+### 1.1 Create a new Databricks Cluster
+
