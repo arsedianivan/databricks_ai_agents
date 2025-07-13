@@ -24,7 +24,8 @@ This guide demonstrates how to build an AI agent that helps financial institutio
 
 ### 1.1 Create a new Databricks Cluster
 
-<img width="737" height="348" alt="image-1" src="https://github.com/user-attachments/assets/01f6773f-2153-4b71-b687-16541ca4afb8" />
+<img width="1309" height="869" alt="image" src="https://github.com/user-attachments/assets/623826ff-f391-455b-999e-8dbfc5a751ac" />
+
 
 ### 1.2 Setup OpenAI API Key
 
