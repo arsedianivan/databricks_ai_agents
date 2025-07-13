@@ -20,7 +20,7 @@ This guide demonstrates how to build an AI agent that helps financial institutio
 - Python knowledge
 - No GPU required (CPU-only setup)
 
-### Step 1 - Setup your Environment
+## Step 1 - Setup your Environment
 
 ### 1.1 Create a new Databricks Cluster
 
@@ -44,3 +44,31 @@ This guide demonstrates how to build an AI agent that helps financial institutio
 
 <img width="555" height="59" alt="image-6" src="https://github.com/user-attachments/assets/7d07d25c-fad9-4ef2-b733-6fd65adeeead" />
 
+
+### 1.4 Setup & Initialize Databricks Client
+
+https://github.com/arsedianivan/databricks_ai_agents/blob/master/financial_compliance_agents/notebooks/step_1_setup.py
+
+## Step 2 - Create Delta Tables for Compliance Docs
+
+https://github.com/arsedianivan/databricks_ai_agents/blob/master/financial_compliance_agents/notebooks/step_2_create_delta_tables_for_compliance_docs.py
+
+## Step 3 - Setup Vector Database
+
+https://github.com/arsedianivan/databricks_ai_agents/blob/master/financial_compliance_agents/notebooks/step_3_setup_vector_database.py
+
+## Step 4 - Build AI Agents
+
+https://github.com/arsedianivan/databricks_ai_agents/blob/master/financial_compliance_agents/notebooks/step_4_build_ai_agents.py
+
+## Step 5 - Create Simple UI
+
+https://github.com/arsedianivan/databricks_ai_agents/blob/master/financial_compliance_agents/notebooks/step_5_create_simple_ui.py
+
+## Step 6 - Train and Improve Model
+
+https://github.com/arsedianivan/databricks_ai_agents/blob/master/financial_compliance_agents/notebooks/step_6_model_training_and_improvement.py
+
+## Step 7 - Setup Monitoring Dashboard
+
+https://github.com/arsedianivan/databricks_ai_agents/blob/master/financial_compliance_agents/notebooks/step_7_create_monitoring_dashboard.py
