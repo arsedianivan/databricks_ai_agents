@@ -28,11 +28,12 @@ This guide demonstrates how to build an AI agent that helps financial institutio
 
 ### 1.2 Setup OpenAI API Key
 
-<img width="293" height="62" alt="image-2" src="https://github.com/user-attachments/assets/36ce85cf-c3cd-4945-accf-94f4cf76a984" />
+<img width="737" height="348" alt="OpenAI_APIKey" src="https://github.com/user-attachments/assets/3e8ee629-07bb-4e4e-a1f3-b4643c67826b" />
+
 
 ### 1.3 Using Databricks CLI Configure your Databricks Token and and Secrets
 
-![alt text](image-2.png)
+<img width="293" height="62" alt="image-2" src="https://github.com/user-attachments/assets/36ce85cf-c3cd-4945-accf-94f4cf76a984" />
 
 ![alt text](image-3.png)
 
