@@ -8,7 +8,7 @@
 
 # MAGIC %sql
 # MAGIC -- Use your existing catalog
-# MAGIC USE CATALOG dev_1899989130012056;
+# MAGIC USE CATALOG <catalog_name> -- use your catalog;
 # MAGIC
 # MAGIC -- Create a dedicated schema for the AI agent
 # MAGIC CREATE SCHEMA IF NOT EXISTS ai_agents;
