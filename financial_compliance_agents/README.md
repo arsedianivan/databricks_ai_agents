@@ -36,10 +36,11 @@ This guide demonstrates how to build an AI agent that helps financial institutio
 
 <img width="293" height="62" alt="image-2" src="https://github.com/user-attachments/assets/36ce85cf-c3cd-4945-accf-94f4cf76a984" />
 
-![alt text](image-3.png)
+<img width="335" height="58" alt="image-3" src="https://github.com/user-attachments/assets/84ec6fe0-7f9f-4367-8df7-f339dbf7aa93" />
 
-![alt text](image-4.png)
+<img width="471" height="89" alt="image-4" src="https://github.com/user-attachments/assets/d47de1b9-9549-4fcf-99f7-ed11f8efe13e" />
 
-![alt text](image-5.png)
+<img width="543" height="73" alt="image-5" src="https://github.com/user-attachments/assets/ab64c6a5-c124-4799-b59b-07ad8ebf3b2d" />
 
-![alt text](image-6.png)
+<img width="555" height="59" alt="image-6" src="https://github.com/user-attachments/assets/7d07d25c-fad9-4ef2-b733-6fd65adeeead" />
+
